@@ -48,7 +48,7 @@
     "babel-plugin-transform-regenerator": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-es2015": "^6.24.1",
-    "commitizen": "^2.9.5",
+    "commitizen": "^4.3.0",
     "cz-conventional-changelog": "^1.2.0",
     "eslint": "^5.10.0",
     "eslint-config-standard": "^12.0.0",
@@ -62,7 +62,7 @@
     "jest": "^23.6.0",
     "lint-staged": "^8.1.0",
     "opn-cli": "^3.1.0",
-    "prettier-standard": "^8.0.1",
+    "prettier-standard": "^16.4.1",
     "semantic-release": "^17.0.4"
   },
   "jest": {
